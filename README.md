@@ -8,6 +8,6 @@
 <p> ALX Airbnb Clone the console project:This is the first section of the project where we work on the console application with the cmd module in python.</p>
 
 <h2>Project Authors</h2>
-Selasi Gedjah
-Antoinette Amedza
+<p>Selasi Gedjah</p>
+<p>Antoinette Amedza</p>
 
